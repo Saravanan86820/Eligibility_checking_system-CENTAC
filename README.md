@@ -98,9 +98,9 @@ git clone <repository-url>
 	```
 	http://localhost/<project-folder-name>/
 
+```
 
 ## Folder Structure
-
 ```
 CENTAC-Eligibility-System/
 ├── application/
